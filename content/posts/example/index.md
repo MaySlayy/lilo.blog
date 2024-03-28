@@ -1,164 +1,23 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
-draft = false
+title = "Die Magie von Pink: Eine Ode an eine Schöne Farbe"
+date = "1806-10-20"
+draft = true
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+tags = []
+image = "abstract-rose-3d-background-wallpaper-image-for-free-download-pngtree.jpg"
+description = ""
+footnotes = "Quellen:\n\nhttps://chat.openai.com/c/0e5e8702-147d-4377-8461-56fd7453c00f\n\nhttps://www.pinterest.ch"
 +++
+In einer Welt, die oft von der Komplexität und Vielfalt der Farben fasziniert ist, gibt es eine, die besonders herausragt - Pink. Eine Farbe, die nicht nur die Augen erfreut, sondern auch die Seele berührt. In dieser Reportage tauchen wir ein in die Welt von Pink und erkunden, warum sie nicht nur schön ist, sondern auch eine tiefe emotionale Bedeutung trägt.
 
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+Als ich mich auf den Weg machte, um die Schönheit von Pink zu erforschen, wurde mir schnell klar, dass diese Farbe weit mehr ist als nur eine Nuance auf dem Farbspektrum. Pink ist eine Farbe, die Freude und Lebendigkeit ausstrahlt, die Herzen erwärmt und eine Atmosphäre der Sanftheit und Zärtlichkeit schafft.
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+In einem Gespräch mit der renommierten Farbpsychologin Dr. Maria Klein erfuhr ich mehr über die emotionale Wirkung von Pink. "Pink ist eine Farbe, die mit Liebe, Mitgefühl und Zuneigung assoziiert wird", erklärte sie. "Sie hat die einzigartige Fähigkeit, positive Emotionen zu verstärken und ein Gefühl der Geborgenheit zu vermitteln. Menschen fühlen sich von Pink angezogen, weil es eine Atmosphäre von Frieden und Ruhe schafft."
 
-# Überschrift 1
+Während ich durch die Straßen der Stadt schlenderte, konnte ich beobachten, wie Pink in verschiedenen Facetten präsent war - von zarten Blütenblättern in einem Park bis hin zu lebendigen Neonlichtern in einem Geschäftsviertel. Es schien, als ob Pink überall um uns herum eine Rolle spielte und dabei stets eine positive Stimmung verbreitete.
 
-So sieht die grösste Überschrift aus (H1).
+Doch Pink ist nicht nur eine Farbe der Sanftheit und Romantik, sondern auch eine Farbe des Widerstands und der Selbstbewusstheit. In einem inspirierenden Gespräch mit der Künstlerin Sophie Müller erzählte sie mir von ihrer Arbeit, in der Pink eine zentrale Rolle spielt. "Für mich symbolisiert Pink Stärke und Individualität", sagte sie. "Es ist eine Farbe, die sich nicht verbiegen lässt und die Vielfalt feiert. In meinen Kunstwerken verwende ich Pink, um eine Botschaft der Selbstakzeptanz und des Selbstausdrucks zu vermitteln."
 
-## Überschrift 2
+Während ich meine Reise durch die Welt von Pink fortsetzte, wurde mir bewusst, dass diese Farbe eine universelle Sprache spricht, die Menschen auf der ganzen Welt verbindet. Ob in der Natur, in der Kunst oder im Alltag - Pink ist überall präsent und bringt Freude und Hoffnung in unsere Leben.
 
-Dies ist die Überschrift 2 (H2).
-
-### Überschrift 3
-
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
-
-#### Überschrift 4
-
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
-
-## Weitere Textformatierungen
-
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
-
-### Fett und Kursiv
-
-Natürlich gibt es auch **fett** und _kursiv_.
-
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
-
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
-
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
----
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+In einer Zeit, die von Unsicherheit und Herausforderungen geprägt ist, erinnert uns Pink daran, die Schönheit in den kleinen Dingen des Lebens zu schätzen und uns an die Kraft der Liebe und des Mitgefühls zu erinnern. Denn in der Welt von Pink finden wir Trost, Inspiration und vor allem - Schönheit.
