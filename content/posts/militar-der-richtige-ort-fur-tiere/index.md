@@ -4,11 +4,7 @@ date = "2024-04-28"
 draft = false
 pinned = false
 +++
-Rohfassung Reportage: Tiere im Militär, Leni und May 
-
-Für viele Menschen ist die Information, dass es Tiere im Militär gibt, eine Neuigkeit. 
-
-Die häufig vergessene Arbeit der Militärtiere wird oft unterschätzt, oder vergleicht mit der Arbeit von Polizeitieren. Auch gibt es viele kritische Sichtweisen auf die Haltung und das Training der Hunde und Pferde. Doch wie sieht diese Ausbildung genau aus und welche Punkte daran werden am stärksten kritisiert? Ein kurzer Einblick  in das Kompetenzzentrum Veterinärdienst und Armeetiere in der Kaserne Sand und in den Tierschutz Bern gibt uns Auskunft.  
+Für viele Menschen ist die Information, dass es Tiere im Militär gibt, eine Neuigkeit. Die häufig vergessene Arbeit der Militärtiere wird oft unterschätzt, oder vergleicht mit der Arbeit von Polizeitieren. Auch gibt es viele kritische Sichtweisen auf die Haltung und das Training der Hunde und Pferde. Doch wie sieht diese Ausbildung genau aus und welche Punkte daran werden am stärksten kritisiert? Ein kurzer Einblick  in das Kompetenzzentrum Veterinärdienst und Armeetiere in der Kaserne Sand und in den Tierschutz Bern gibt uns Auskunft.  
 
 Um punkt 8 Uhr trifft das Auto auf dem Parkplatz hinter dem Restaurant Bären in Schönbühl ein. Es sind bereits Hundegebelle und Rufe zu hören, als Sascha Goetz auf uns zukommt und uns begrüsst. Dort treffen wir auf Rekruten, welche gerade ihre Autos mit Gepäck und Hunden beladen, um zum Training an der Aare zu fahren, wo sich ebenfalls ein Trainingsplatz befindet. 
 
@@ -24,7 +20,9 @@ Welche Rassen werden meistens für das Militär verwendet? 
 
 Das Militär arbeitet sehr gerne mit dem belgischen Schäferhund, der Spalte Malinois, welche ca. 95% der Hunde im Militär ausmachen. Es gibt jedoch auch andere Rassen, wie zum Beispiel Labrador oder Rottweiler, welche jedoch eher selten auftreten. Labradore werden oft im Rettungsbereich genutzt, währen Rottweiler eher als Schutzhunde dienen. Wenn ein Rekrut keinen belgischen Schäferhund hat und ihm keinen vom Militär zur Verfügung gestellt wird, wird von ihm eine andere Rasse selbst mitgenommen. Tervueren werden teilweise auch gebraucht, da diese sehr geeignete und gute Diensthunde darstellen, wie auch die deutschen Schäfer, welche jedoch nicht immer fit genug sind.  Deutsche Schäfer leiden öfters an einer Hüftdysplasie, weswegen sie nicht so oft verwendet werden.    Pferderassen, die für militärische Zwecke eingesetzt werden, müssen robust, vielseitig und gut trainierbar sein. Deshalb werden oft Warmblüter eingesetzt, welche für ihre Vielfältigkeit bekannt sind und sich als Dienstpferde eignen, da sie sowohl für Springen als auch für Dressur sehr gut gebraucht werden können. Kaltblüter, wie auch Maulesel hingegen sind sehr nützlich für Transport- und Schlepparbeiten. 
 
- {{<box>}}
+{{<box>}}
+
+
 
 Heutzutage sind Pferde in der Schweiz nicht mehr als Armeetiere von Nutzen, sondern werden nur noch aufgrund taktischer und meteorologischer Gründe eingesetzt. „Wenn ein Sturm war und in einem Wald Bäume umgefallen sind, macht es keinen Sinn, mit einem Bagger diese dort rauszuschleppen, da das Fahrzeug den Boden einfach kaputtmachen würde. Dort zum Beispiel werden dann die Pferde eingesetzt, da diese ganz einfach hereinlaufen und einen Baumstamm herausziehen können.“ Erzählt Sascha uns, als wir ihn nach den Einsätzen der Pferde fragen. Ausserdem werden sie auch als Transporttiere gebraucht und man arbeite momentan an Patrouillenpferden, so wie man es von der Polizei kennt. 
 
